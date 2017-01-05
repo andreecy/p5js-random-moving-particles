@@ -2,6 +2,8 @@
 
 Automatic random movement Particles with p5js javascript framework
 
+[![Screenshot from 2017-01-05 21-08-37.png](https://s28.postimg.org/w33e92k4d/Screenshot_from_2017_01_05_21_08_37.png)](https://postimg.org/image/on44n9wex/)
+
 features:
 - Random generated particle size
 - Random movement direction
